@@ -1,2 +1,31 @@
-# lactose-updated
-lactose references
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>References — Lactose Intolerance</title>
+  <style>
+    body {font-family: Arial, sans-serif; background:#f6f8fb; color:#1f2937; margin:40px;}
+    h1 {text-align:center; color:#2563eb;}
+    .ref-box {
+      background:white; padding:20px; border-radius:12px;
+      box-shadow:0 6px 18px rgba(0,0,0,0.08); max-width:700px; margin:0 auto;
+    }
+    ol {line-height:1.6;}
+    li {margin-bottom:12px;}
+  </style>
+</head>
+<body>
+  <h1>📚 References</h1>
+  <div class="ref-box">
+    <ol>
+      <li>Ali, R., & Evans, J. L. (1973). Lactose and calcium metabolism: A review. <i>Journal of Agriculture of the University of Puerto Rico, 57</i>(2). https://revistas.upr.edu</li>
+      <li>Cleveland Clinic. (2022). <i>Lactose intolerance</i>. Cleveland Clinic. https://my.clevelandclinic.org/health/diseases/7317-lactose-intolerance</li>
+      <li>Griessen, M., Cochet, B., Infante, F., Jung, A., Bartholdi, P., Donath, A., Loizeau, E., & Courvoisier, B. (1989). Calcium absorption from milk in lactase-deficient subjects. <i>The American Journal of Clinical Nutrition, 49</i>(2), 377–384. https://pubmed.ncbi.nlm.nih.gov/2492746</li>
+      <li>Labat, M.-L. (1972, June). <i>Effect of lactose on intestinal absorption of calcium; Effet du lactose sur l’absorption intestinale du calcium</i> [Unpublished thesis/report]. Université Paris VI; Centre d’Études Nucléaires de Fontenay-aux-Roses – CEA. https://www.osti.gov/etdeweb/biblio/22203024</li>
+      <li>Mayo Clinic. (2023). <i>Lactose intolerance: Symptoms & causes</i>. Mayo Foundation for Medical Education and Research. https://www.mayoclinic.org/diseases-conditions/lactose-intolerance/symptoms-causes/syc-20374232</li>
+      <li>National Institute of Diabetes and Digestive and Kidney Diseases. (2022). <i>Lactose intolerance</i>. U.S. Department of Health and Human Services. https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance</li>
+      <li>Speich, P. V., Griessen, M., Infante, F., Bartholdi, P., Cochet, B., Donath, A., & Courvoisier, B. (1989). Effect of absorbable and nonabsorbable sugars on intestinal calcium absorption in humans. <i>Gastroenterology, 96</i>(3). https://www.osti.gov/biblio/6464053</li>
+      <li>Storhaug, C. L., Fosse, S. K., & Fadnes, L. T. (2017). Country, regional, and global estimates for lactose malabsorption in adults: A systematic review and meta-analysis. <i>The Lancet Gastroenterology & Hepatology, 2</i>(10), 738–746. https://doi.org/10.1016/S2468-1253(17)30154-1</li>
+    </ol>
+  </div>
+</body>
+</html>
